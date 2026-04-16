@@ -1,0 +1,6 @@
+﻿category,academic,federal_policy,news_commentary,ngo_nonprofit,state_local
+academic,1.0,0.0,0.0,0.0,0.0
+federal_policy,0.0,1.0,0.0,0.0,0.0
+news_commentary,0.0,0.0,1.0,0.0,0.0
+ngo_nonprofit,0.0,0.0,0.0,1.0,0.0
+state_local,0.0,0.0,0.0,0.0,1.0

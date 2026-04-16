@@ -1,0 +1,8 @@
+﻿indicator_combo,count,pct
+(),20134,73.58
+"('contains_related_terms',)",3170,11.58
+"('contains_equity', 'contains_health_equity')",2129,7.78
+"('contains_equity',)",920,3.36
+"('contains_equity', 'contains_health_equity', 'contains_related_terms')",794,2.9
+"('contains_equity', 'contains_related_terms')",217,0.79
+"('contains_equities',)",1,0.0

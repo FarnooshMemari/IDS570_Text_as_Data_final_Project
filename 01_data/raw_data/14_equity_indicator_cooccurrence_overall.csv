@@ -1,0 +1,5 @@
+﻿indicator,contains_equity,contains_equities,contains_health_equity,contains_related_terms
+contains_equity,100.0,0.0,100.0,24.2
+contains_equities,0.0,100.0,0.0,0.0
+contains_health_equity,72.0,0.0,100.0,19.0
+contains_related_terms,24.9,0.0,27.2,100.0

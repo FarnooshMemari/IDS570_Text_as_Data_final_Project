@@ -1,9 +1,10 @@
 # IDS 570: Text as Data — Final Project
+
 ## "Equity" in Public Health Discourse
 
 **Course:** IDS 570: Text as Data  
 **Due:** April 22, 2026  
-**Team:** Franoosh Memari & Sebine Scaria
+**Team:** Farnoosh Memari & Sebine Scaria
 
 ---
 
@@ -166,10 +167,11 @@ python -m spacy download en_core_web_sm
 
 ## Literature Review Sources
 
-- Devlin et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. *NAACL-HLT*.
-- Wiedemann et al. (2019). Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings. *KONVENS*.
-- Braveman, P. (2003). Monitoring Equity in Health and Healthcare: A Conceptual Framework. *Journal of Health, Population and Nutrition*.
-- Braveman, P. & Gruskin, S. (2003). Defining Equity in Health. *Journal of Epidemiology & Community Health*.
+- Braveman, P. & Gruskin, S. (2003). “Defining equity in health.” Journal of Epidemiology & Community Health, 57(4), 254–258. 
+- Devlin et al. (2019). “BERT: Pre-training of Deep Bidirectional Transformers.” NAACL. 
+- Ehrmann et al. (2023). “NER and Classification in Historical Documents.
+- Marmot, M. (2005). “Social Determinants of Health Inequalities.” The Lancet, 365(9464), 1099–1104. 
+- Wiedemann et al. (2019). “Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings.” arXiv. 
 
 ---
 
@@ -191,6 +193,6 @@ python -m spacy download en_core_web_sm
 
 ## Submission
 
-- **GitHub:** [repository link]
+- **GitHub:** [repo link]
 - **Canvas:** Report posted in Discussion section (Data Exploration)
-- **Tableau:** [public dashboard link]
+- **Tableau:** https://public.tableau.com/app/profile/sebine.scaria/viz/UsingNaturalLanguageProcessingtoseehowthewordEquityisdescribedacrossDocumentTypes/Dashboard1

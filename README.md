@@ -186,7 +186,7 @@ python -m spacy download en_core_web_sm
 | K-Means clustering | ✓ | |
 | Logistic regression | ✓ | |
 | Tableau visualizations | ✓ | ✓ |
-| GitHub organization | ✓ | |
+| GitHub organization | ✓ |✓ |
 | Report writing | ✓ | ✓ |
 
 ---

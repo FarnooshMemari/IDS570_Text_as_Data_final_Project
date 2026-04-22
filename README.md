@@ -195,4 +195,4 @@ python -m spacy download en_core_web_sm
 
 - **GitHub:** https://github.com/FarnooshMemari/IDS570_Text_as_Data_final_Project.git
 - **Canvas:** Report posted in Discussion section.
-- **Tableau:** https://public.tableau.com/app/profile/sebine.scaria/viz/UsingNaturalLanguageProcessingtoseehowthewordEquityisdescribedacrossDocumentTypes/Dashboard1
+- **Tableau:** https://public.tableau.com/app/profile/farnoosh.memari/viz/UsingNaturalLanguageprocessingtoseehowthewordEquityisdiscribedacrossDocumenttypes/UsingNaturalLanguageprocessingtoseehowthewordEquityisdiscribedacrossDocumenttypes?publish=yes

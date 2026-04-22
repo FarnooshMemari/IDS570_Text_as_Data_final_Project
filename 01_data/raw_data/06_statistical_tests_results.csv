@@ -1,0 +1,3 @@
+﻿test_name,statistic,p_value,effect_size,effect_size_interpretation,significant_at_0.05
+Chi-square,305.8171875166602,6.0242691279483764e-65,0.10571417350425595,Medium,True
+Kruskal-Wallis,13.821280365952845,0.007887851632710174,0.07984780785327517,Large,True

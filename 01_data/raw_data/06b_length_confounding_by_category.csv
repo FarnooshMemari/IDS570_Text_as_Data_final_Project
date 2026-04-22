@@ -1,0 +1,6 @@
+﻿category,mean_doc_length_words,median_doc_length_words,equity_rate_by_length_corr,corr_p_value,corr_significant
+state_local,14486.952380952382,12241.0,0.405,0.0684,No
+federal_policy,12354.833333333334,12288.0,0.421,0.082,No
+ngo_nonprofit,9181.411764705883,7454.0,-0.514,0.0349,Yes
+news_commentary,482.69565217391306,17.0,0.556,0.0059,Yes
+academic,213.71428571428572,217.0,-0.122,0.4034,No

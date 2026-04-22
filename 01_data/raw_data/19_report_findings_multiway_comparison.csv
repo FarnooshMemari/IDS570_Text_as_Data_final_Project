@@ -1,0 +1,10 @@
+﻿finding
+All five categories show varying equity usage intensities; statistical tests with effect sizes quantify systematic differences.
+Pairwise comparisons reveal which category pairs differ most significantly in equity framing rate.
+"Length confounding analysis: equity rate is weakly correlated with document length, suggesting content differences rather than verbosity."
+Equity indicators show non-trivial co-occurrence patterns; some categories may emphasize unique indicator combinations.
+"Definition-style equity language differs across categories, indicating distinct conceptual framing patterns within each source type."
+Document-level co-occurrence analysis shows diverse category mixing within documents.
+"Document-level spread is high (median equity sentences per document = 5.0), so sentence-level independence assumptions are inappropriate."
+"Quality checks show 3.30% duplicate sentence text, which should be considered in model validation."
+"For fixed-k document sampling, 50.78% of documents meet k=5."

@@ -1,0 +1,13 @@
+Model,Metric,Value
+BERT,Accuracy,0.6658
+BERT,Precision,0.4545
+BERT,Recall,0.6658
+BERT,F1,0.5397
+BNER,Accuracy,0.6658
+BNER,Precision,0.4545
+BNER,Recall,0.6658
+BNER,F1,0.5397
+Classifier,Accuracy,0.6658
+Classifier,Precision,0.4545
+Classifier,Recall,0.6658
+Classifier,F1,0.5397
